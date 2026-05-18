@@ -1,0 +1,28 @@
+title: "Terrain, nature et paysages"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Quelques images qui accompagnent mon intérêt pour le plein air, l'observation naturaliste et les petites rencontres de terrain.
+pictures:
+  - title: "Randonnée"
+    content: "Paysages de montagne et longues journées dehors."
+    image: "images/clara/profile-hike.jpg"
+    thumb: "images/clara/thumbs/profile-hike.jpg"
+    button: "Voir"
+
+  - title: "Montagnes"
+    content: "Un rappel que le terrain commence souvent par l'envie d'aller voir."
+    image: "images/clara/mountains.jpg"
+    thumb: "images/clara/thumbs/mountains.jpg"
+    button: "Voir"
+
+  - title: "Amphibien"
+    content: "Observer les détails, même quand ils se tiennent au bord du cadre."
+    image: "images/clara/toad.jpg"
+    thumb: "images/clara/thumbs/toad.jpg"
+    button: "Voir"
+
+  - title: "Herpéto"
+    content: "La biodiversité de proximité, discrète et fascinante."
+    image: "images/clara/snake.jpg"
+    thumb: "images/clara/thumbs/snake.jpg"
+    button: "Voir"

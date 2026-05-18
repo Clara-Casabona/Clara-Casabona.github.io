@@ -1,0 +1,20 @@
+<!-- Banner -->
+<section class="banner {{ .style }}">
+    <div class="content">
+        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <ul class="icons">
+            {{ with site.Params.social.email }}<li><a href="mailto:{{ . }}" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>{{ end }}
+            {{ with site.Params.social.github }}<li><a href="{{ . }}" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>{{ end }}
+            {{ with site.Params.social.inaturalist }}<li><a href="{{ . }}" class="icon solid style2 fa-leaf"><span class="label">iNaturalist</span></a></li>{{ end }}
+            {{ with site.Params.social.ebird }}<li><a href="{{ . }}" class="icon solid style2 fa-dove"><span class="label">eBird</span></a></li>{{ end }}
+        </ul>
+        {{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
+        </ul>{{ end }}
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{.}}" alt="Hugo Story" />
+    </div>{{end}}
+</section>

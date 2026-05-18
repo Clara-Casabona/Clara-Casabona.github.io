@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "donnees"
+title : "Des données brutes aux outils utiles"
+content: |
+  J'aime transformer des jeux de données complexes en analyses claires: fichiers radar, sons, bases de données d'observations, cartes de répartition, rapports automatisés et applications Shiny. Mes outils de tous les jours incluent R, QGIS, LaTeX, Git/GitHub et les workflows reproductibles.
+button: 
+  label: "Voir mon parcours"
+  link: "#parcours"
+image: "images/clara/snake.jpg"

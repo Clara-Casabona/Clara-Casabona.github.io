@@ -1,0 +1,9 @@
+<section>
+    <span class="icon {{ .style }}"></span>
+    <h3><b>{{ .name }}</b></h3>
+    {{ with .authors }}<h4>{{ . }}</h4>{{ end }}
+    <p>{{ .content }}</p>
+    {{ with .sourcelink }}<a href="{{ . }}" class="button small icon solid fa-search">En savoir plus</a>{{ end }}
+    {{ with .contentlink }}<a href="{{ . }}" class="button small primary icon solid fa-desktop">{{ $.contentname }}</a>{{ end }}
+    {{ with .codelink }}<a href="{{ . }}" class="button small primary icon solid fa-hashtag">Code</a>{{ end }}
+</section>

@@ -1,0 +1,19 @@
+title: Clara Casabona
+theme: hugo-story
+publishDir: docs
+cleanDestinationDir: true
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - section
+Params:
+  description: Biologiste, analyste de données écologiques et doctorante en biologie.
+  favicon: yes
+  logo: images/clara/profile-hike.jpg
+  social:
+    email: claracasabona@hotmail.com
+    inaturalist: https://www.inaturalist.ca/observations?subview=table&user_id=clara_casabona&verifiable=any
+    ebird: https://ebird.org/
+  marketing:
+    analytics:
+      google_analytics: ''

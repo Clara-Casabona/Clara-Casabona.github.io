@@ -1,0 +1,24 @@
+title : "Intérêts"
+content: |
+  Quelques fils qui nourrissent mon quotidien, au-delà de la recherche.
+style: "style1 big onscroll-fade-in"
+items:
+  - name : "Plein air et randonnées"
+    content : "Marcher longtemps, lire un paysage et chercher ce qui bouge autour du sentier: le terrain reste l'endroit où mes idées respirent le mieux."
+    style : "solid style2 major fa-mountain"
+
+  - name : "Jeux de société"
+    content : "J'aime les jeux qui font réfléchir à plusieurs: stratégie, coopération, règles élégantes et bons moments autour d'une table."
+    style : "solid style2 major fa-dice"
+
+  - name : "Gastronomie"
+    content : "Découvrir une ville ou une culture par ce qu'on cuisine, ce qu'on partage et ce qu'on prend le temps de goûter."
+    style : "solid style2 major fa-utensils"
+    
+  - name : "Voyage"
+    content : "Changer d'échelle, de langue et d'horizon: voyager nourrit autant ma curiosité naturaliste que mon envie de comprendre les lieux."
+    style : "solid style2 major fa-globe-americas"
+
+  - name : "Lecture et peinture"
+    content : "Lire et peindre me donnent un autre rythme: observer autrement, laisser mûrir les idées, puis revenir au monde avec plus d'attention."
+    style : "solid style2 major fa-palette"
