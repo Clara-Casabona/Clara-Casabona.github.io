@@ -4,7 +4,7 @@ title : "Bonjour, je suis Clara."
 subtitle: |
   Biologiste, analyste de données écologiques et candidate au doctorat en biologie.
 content : |
-  Je travaille à l'intersection de la <b>biologie de la conservation</b>, de l'ornithologie, de la science citoyenne et de l'analyse reproductible de données. J'utilise R, les SIG et la modélisation statistique pour mieux comprendre les changements de biodiversité, les dynamiques d'occupation et les mouvements d'oiseaux.
+  Je travaille à l'intersection de la <b>biologie de la conservation</b>, de l'ornithologie, de la science citoyenne et de l'analyse reproductible de données. J'utilise principalement R et la modélisation statistique pour mieux comprendre les changements de biodiversité, les dynamiques d'occupation et les mouvements d'oiseaux.
 button:
   label : "Voir mes projets"
   link : "#recherche"

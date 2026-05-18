@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "science-citoyenne"
-title : "Oiseaux, eBird et science citoyenne"
+title : "Science citoyenne"
 content: |
-  Les oiseaux sont au coeur de plusieurs de mes projets: Grue du Canada, Tétras du Canada, Hibou des marais, Nyctale de Tengmalm et analyses de mouvements migratoires. Je participe aussi à eBird depuis 2017, avec plus de 1600 listes d'observations au niveau mondial et jusqu'à 274 espèces recensées au Québec. Pour moi, la science citoyenne est à la fois une façon d'observer le vivant, de contribuer à la recherche et de garder les pieds dans le terrain.
+  Les oiseaux sont au coeur de plusieurs de mes projets: Grue du Canada, Tétras du Canada, Hibou des marais et Nyctale de Tengmalm... Je participe aussi à eBird depuis 2017, avec plus de 1600 listes d'observations au niveau mondial et jusqu'à 274 espèces recensées au Québec et sur iNaturalist avec plus de 1000 observations. Pour moi, la science citoyenne est à la fois une façon d'observer le vivant, de contribuer à la recherche et de garder les pieds dans le terrain.
 button: 
   label: "Voir mon profil iNaturalist"
   link: "https://www.inaturalist.ca/observations?subview=table&user_id=clara_casabona&verifiable=any"
-image: "images/clara/toad.jpg"
+image: "images/clara/Messangeai_du_canada.JPG"

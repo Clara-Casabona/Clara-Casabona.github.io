@@ -1,8 +1,50 @@
-title: "Terrain, nature et paysages"
+title: "Terrain, photographie et recherche visuelle"
 style: "style2 medium lightbox onscroll-fade-in"
 content: |
-  Quelques images qui accompagnent mon intérêt pour le plein air, l'observation naturaliste et les petites rencontres de terrain.
+  Quelques images qui accompagnent mon intérêt pour l'observation naturaliste, la photographie de faune et flore, et la communication scientifique.
 pictures:
+  - title: "Mésangeai du Canada"
+    content: "Observation hivernale et photographie de terrain."
+    image: "images/clara/Messangeai_du_canada.JPG"
+    thumb: "images/clara/thumbs/Messangeai_du_canada.JPG"
+    button: "Voir"
+
+  - title: "Paruline"
+    content: "Une rencontre lumineuse dans le feuillage."
+    image: "images/clara/Paruline.JPG"
+    thumb: "images/clara/thumbs/Paruline.JPG"
+    button: "Voir"
+
+  - title: "Chouette laponne"
+    content: "Observer les oiseaux, même lorsqu'ils se fondent dans le paysage."
+    image: "images/clara/Chouette_laponne.JPG"
+    thumb: "images/clara/thumbs/Chouette_laponne.JPG"
+    button: "Voir"
+
+  - title: "Tortue"
+    content: "Un moment de terrain au ras du sol."
+    image: "images/clara/Tortue.JPG"
+    thumb: "images/clara/thumbs/Tortue.JPG"
+    button: "Voir"
+
+  - title: "Amphibien et tortue"
+    content: "Une petite scène naturaliste, entre détail et surprise."
+    image: "images/clara/DSC_0867.JPG"
+    thumb: "images/clara/thumbs/DSC_0867.JPG"
+    button: "Voir"
+
+  - title: "Synthèse visuelle - Grue du Canada"
+    content: "Une vulgarisation visuelle issue de mes travaux de maîtrise."
+    image: "images/clara/Graphical_abstract_maitrise.png"
+    thumb: "images/clara/thumbs/Graphical_abstract_maitrise.png"
+    button: "Voir"
+
+  - title: "Poster doctoral"
+    content: "Communication scientifique autour de mon projet doctoral."
+    image: "images/clara/Poster_phd_art_1.png"
+    thumb: "images/clara/thumbs/Poster_phd_art_1.png"
+    button: "Voir"
+
   - title: "Randonnée"
     content: "Paysages de montagne et longues journées dehors."
     image: "images/clara/profile-hike.jpg"

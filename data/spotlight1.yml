@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "recherche"
 title : "Comprendre les changements de biodiversité"
 content: |
-  Dans mon doctorat à l'Université de Sherbrooke, j'étudie les changements de biodiversité, l'extinction locale et la colonisation des espèces dans les écosystèmes du Québec. Mon travail combine information spatiale, effort d'échantillonnage et méthodes bayésiennes pour mieux interpréter les données écologiques.
+  Dans mon doctorat à l'Université de Sherbrooke, j'étudie les changements de biodiversité, l'extinction locale et la colonisation des espèces dans les écosystèmes du Québec. Mon travail combine information spatiale, effort d'échantillonnage et méthodes bayésiennes pour mieux interpréter les données écologiques. Les fonctions de ce travail se retrouvent dans le dépôt <a href="https://github.com/Clara-Casabona/SpaColExt">SpaColExt</a>.
 button: 
   label: "Voir mes publications"
   link: "#publications"

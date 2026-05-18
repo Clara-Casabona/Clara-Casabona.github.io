@@ -7,6 +7,14 @@ items:
     content : "Marcher longtemps, lire un paysage et chercher ce qui bouge autour du sentier: le terrain reste l'endroit où mes idées respirent le mieux."
     style : "solid style2 major fa-mountain"
 
+  - name : "Photographie de faune et flore"
+    content : "Photographier les espèces rencontrées sur le terrain me permet de prolonger l'observation, de documenter les détails et de garder une trace sensible du vivant."
+    style : "solid style2 major fa-camera"
+
+  - name : "Voyage"
+    content : "Changer d'échelle, de langue et d'horizon: voyager nourrit autant ma curiosité naturaliste que mon envie de comprendre les lieux."
+    style : "solid style2 major fa-globe-americas"
+    
   - name : "Jeux de société"
     content : "J'aime les jeux qui font réfléchir à plusieurs: stratégie, coopération, règles élégantes et bons moments autour d'une table."
     style : "solid style2 major fa-dice"
@@ -15,10 +23,6 @@ items:
     content : "Découvrir une ville ou une culture par ce qu'on cuisine, ce qu'on partage et ce qu'on prend le temps de goûter."
     style : "solid style2 major fa-utensils"
     
-  - name : "Voyage"
-    content : "Changer d'échelle, de langue et d'horizon: voyager nourrit autant ma curiosité naturaliste que mon envie de comprendre les lieux."
-    style : "solid style2 major fa-globe-americas"
-
   - name : "Lecture et peinture"
     content : "Lire et peindre me donnent un autre rythme: observer autrement, laisser mûrir les idées, puis revenir au monde avec plus d'attention."
     style : "solid style2 major fa-palette"
