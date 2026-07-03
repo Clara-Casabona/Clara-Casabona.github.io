@@ -5,7 +5,10 @@ cleanDestinationDir: true
 disableKinds:
   - taxonomy
   - taxonomyTerm
-  - section
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 Params:
   description: Biologiste, analyste de données écologiques et doctorante en biologie.
   favicon: yes

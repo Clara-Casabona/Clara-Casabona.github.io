@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article class="wrapper style1 align-left blog-shell">
+  <section class="wrapper style1 align-left blog-post-header"{{ with .Params.featured_image }} style="--blog-header-image: url('{{ . }}');"{{ end }}>
+    <div class="inner">
+      <p><a href="/blog/" class="button small icon solid fa-arrow-left">Carnets</a></p>
+      <h1>{{ $.Title }}</h1>
+      {{ with $.Params.description }}<p class="major">{{ . }}</p>{{ end }}
+    </div>
+  </section>
+
+  <div class="inner blog-article">
+    {{ .Content }}
+  </div>
+</article>
+{{ partial "template/footer" . }}
+<script src="/assets/js/blog-lightbox.js"></script>
+{{ end }}

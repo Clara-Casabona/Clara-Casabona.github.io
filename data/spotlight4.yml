@@ -1,7 +1,7 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "vulgarisation"
-title : "Vulgarisation naturaliste"
+title : "Vulgarisation"
 content: |
   J'aime rendre l'observation de la biodiversité plus accessible, autant sur le terrain que dans les outils de référence. J'ai préparé un guide d'identification de l'herpétofaune du Québec pour aider à reconnaître les amphibiens, les reptiles et les tortues que l'on peut rencontrer près de chez soi ou en sortie naturaliste.
 button:

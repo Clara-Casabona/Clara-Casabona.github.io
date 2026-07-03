@@ -6,6 +6,7 @@ items:
   - name : "Plein air et randonnées"
     content : "Marcher longtemps, lire un paysage et chercher ce qui bouge autour du sentier: le terrain reste l'endroit où mes idées respirent le mieux."
     style : "solid style2 major fa-mountain"
+    sourcelink : "/blog/"
 
   - name : "Photographie de faune et flore"
     content : "Photographier les espèces rencontrées sur le terrain me permet de prolonger l'observation, de documenter les détails et de garder une trace sensible du vivant."
@@ -14,6 +15,7 @@ items:
   - name : "Voyage"
     content : "Changer d'échelle, de langue et d'horizon: voyager nourrit autant ma curiosité naturaliste que mon envie de comprendre les lieux."
     style : "solid style2 major fa-globe-americas"
+    sourcelink : "/blog/"
     
   - name : "Jeux de société"
     content : "J'aime les jeux qui font réfléchir à plusieurs: stratégie, coopération, règles élégantes et bons moments autour d'une table."
