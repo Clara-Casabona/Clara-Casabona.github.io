@@ -33,7 +33,7 @@ Notre itinéraire s'est déroulé sur **7 nuits en refuge**, avec l'ascension de
 | [5](#etape-5-llong-colomina) | Refugi Estany Llong | Refugi Colomina | - | 13.0 km | ↑ 913 m, ↓ 491 m | 5h12 | Beaux lacs, barrages et ambiance très sauvage. |
 | [6](#etape-6-colomina-jm-blanc) | Refugi Colomina | Refugi J. M. Blanc | Pas de l'Ós / Collada de Saburó | ~8.7 km | ↑ 389 m, ↓ 489 m | 3h30 | Montée courte mais soutenue vers le Pas de l'Ós. |
 | [7](#etape-7-jm-blanc-mallafre) | Refugi J. M. Blanc | Refugi Mallafré | Monestero | ~12.4 km | ↑ 630 m, ↓ 1075 m | 4h20 | Longue descente vers les forêts de conifères. |
-| [8](#etape-8-mallafre-aparcament-de-prat-pierro) | Refugi Mallafré | Aparcament de Prat Pierró | - | ~5.4 km | à compléter | à compléter | Courte journée de retour vers le stationnement. |
+| [8](#etape-8-mallafre-aparcament-de-prat-pierro) | Refugi Mallafré | Aparcament de Prat Pierró | - | ~5.4 km | ↓ 200 m | à compléter | Courte journée de retour vers le stationnement. |
 
 <div class="route-summary">
   <div class="route-stats">
@@ -97,7 +97,7 @@ Voici les 10 espèces que j'ai aimées pendant la randonnée. Pour la liste comp
   <article class="species-card"><img src="/images/blog/carros-de-foc/species/Lilium_pyrenaicum.jpg" alt="Lilium pyrenaicum"><p><strong><i>Lilium pyrenaicum</i></strong><br>Une des fleurs les plus belles de la traversée.</p></article>
   <article class="species-card"><img src="/images/blog/carros-de-foc/species/Paradisea_liliastrum.jpg" alt="Paradisea liliastrum"><p><strong><i>Paradisea liliastrum</i></strong><br>Floraison élégante dans les prairies alpines.</p></article>
   <article class="species-card"><img src="/images/blog/carros-de-foc/species/lezard.JPG" alt="Lézard des murailles"><p><strong><i>Podarcis muralis</i></strong><br>Il prenait tranquillement le soleil sur un rocher.</p></article>
-  <article class="species-card"><img src="/images/blog/carros-de-foc/species/papillon.JPG" alt="Papillon"><p><strong>Papillon</strong><br>Identification à compléter.</p></article>
+  <article class="species-card"><img src="/images/blog/carros-de-foc/species/papillon.JPG" alt="Papillon"><p><strong>Papillon</strong><br>Il semblait une feuille morte.</p></article>
   <article class="species-card"><img src="/images/blog/carros-de-foc/species/PXL_20260621_141031165.jpg" alt="Pulsatilla alpina apiifolia"><p><strong><i>Pulsatilla alpina apiifolia</i></strong><br>Pulsatille soufrée, adaptée aux pelouses alpines.</p></article>
   <article class="species-card"><img src="/images/blog/carros-de-foc/species/PXL_20260621_141447460.jpg" alt="Sempervivum montanum"><p><strong><i>Sempervivum montanum</i></strong><br>Plante adaptée aux rochers affleurants.</p></article>
   <article class="species-card"><img src="/images/blog/carros-de-foc/species/PXL_20260621_144906108.jpg" alt="Saxifraga"><p><strong><i>Saxifraga</i></strong><br>Espèce typique des milieux rocheux d'altitude.</p></article>
@@ -127,7 +127,7 @@ Voici les 10 espèces que j'ai aimées pendant la randonnée. Pour la liste comp
   <div class="stage-body">
     <div class="stage-text">
       <p>Départ de l'Aparcament de Prat Pierró vers Amitges, avec la sensation d'entrer progressivement dans le coeur lacustre du parc. Le sentier prend vite de l'altitude, mais l'arrivée vers les lacs donne un rythme agréable à cette première journée. C'est une étape parfaite pour ouvrir la traversée, observer les premiers paysages et arriver au refuge avec l'impression d'être déjà loin.</p>
-      <p class="nature-note"><strong>Note naturaliste:</strong> l'étape commence dans une forêt montagnarde dominée notamment par le sapin, puis laisse rapidement place à une forêt de conifères entrecoupée de prairies subalpines. Les forêts de pin sylvestre, mêlées à quelques sapins, dominent les plus basses altitudes. À partir d'environ 1 800 m, elles sont remplacées par de vastes pinèdes de pin noir, avec un sous-bois composé d'éricacées comme le rhododendron, la myrtille et d'autres arbustes de haute montagne. En poursuivant l'ascension vers Amitges, les arbres se raréfient progressivement pour laisser place aux landes subalpines et aux pelouses alpines.</p>
+      <p class="nature-note"><strong>Note naturaliste:</strong> l'étape commence dans une forêt montagnarde dominée notamment par le sapin, puis laisse rapidement place à une forêt de conifères entrecoupée de prairies subalpines. Les forêts de pin sylvestre, mêlées à quelques sapins, dominent les plus basses altitudes. À partir d'environ 1 800 m, elles sont remplacées par de vastes pinèdes de pin noir, avec un sous-bois composé d'éricacées comme le rhododendron, la myrtille et d'autres arbustes de haute montagne. En poursuivant l'ascension vers Amitges, les arbres se raréfient progressivement pour laisser place aux landes subalpines et aux pelouses alpines. Nous avons aussi observé des Daims d'Europe près d'Amitges.</p>
     </div>
     <div class="stage-photos">
       <figure><img src="/images/blog/carros-de-foc/paysatges/Direction_Amitges.jpg" alt="Direction Amitges"><figcaption>Direction Amitges.</figcaption></figure>
@@ -163,7 +163,7 @@ Voici les 10 espèces que j'ai aimées pendant la randonnée. Pour la liste comp
   <div class="stage-body">
     <div class="stage-text">
       <p>Avant Ventosa, nous avons fait le Montardo, ce qui transforme l'étape en une journée plus aérienne. Le paysage devient très ouvert et donne une vraie impression de passer d'un bassin lacustre à l'autre. L'arrivée vers Ventosa se fait avec le corps déjà bien engagé dans la traversée, mais aussi avec la récompense d'un refuge bien placé et d'une eau de source excellente.</p>
-      <p class="nature-note"><strong>Note naturaliste:</strong> autour du Montardo, la végétation devient plus clairsemée et laisse surtout place aux plantes alpines capables de pousser entre les rochers affleurants, les pierriers et les petites dalles rocheuses. Les lacs et les ruisseaux restent omniprésents dans le paysage.</p>
+      <p class="nature-note"><strong>Note naturaliste:</strong> autour du Montardo, la végétation devient plus clairsemée et laisse surtout place aux plantes alpines capables de pousser entre les rochers affleurants, les pierriers et les petites dalles rocheuses. Les lacs et les ruisseaux restent omniprésents dans le paysage. Nous y avons observé <i>Anthus spinoletta</i>.</p>
     </div>
     <div class="stage-photos">
       <figure><img src="/images/blog/carros-de-foc/paysatges/Montardo.jpg" alt="Montardo"><figcaption>Montardo.</figcaption></figure>
@@ -199,7 +199,7 @@ Voici les 10 espèces que j'ai aimées pendant la randonnée. Pour la liste comp
   <div class="stage-body">
     <div class="stage-text">
       <p>L'étape vers Colomina passe par la Colladeta de Dellui et donne une belle continuité après la journée plus technique. La longue montée est accompagnée de plusieurs lacs et de passages ouverts, avec la sensation d'avancer dans un paysage très sauvage. La descente vers Colomina traverse la zone périphérique du parc; on y observe de nombreux barrages et des restes de la voie ferrée de service. Nous passons aussi à côté d'un abri aménagé sous de gros blocs rocheux, un détail très intéressant du parcours. L'arrivée à Colomina marque un contraste agréable: le refuge est presque neuf, lumineux et très confortable.</p>
-      <p class="nature-note"><strong>Note naturaliste:</strong> les milieux alpins et aquatiques dominent encore cette étape, avec de nombreux lacs, étangs et ruisseaux entre les blocs. On croise aussi des troupeaux qui pâturent en montagne, ce qui rappelle l'importance de filtrer l'eau avant de remplir les gourdes.</p>
+      <p class="nature-note"><strong>Note naturaliste:</strong> les milieux alpins et aquatiques dominent encore cette étape, avec de nombreux lacs, étangs et ruisseaux entre les blocs. On croise aussi des troupeaux qui pâturent en montagne, ce qui rappelle l'importance de filtrer l'eau avant de remplir les gourdes. Nous avons observé <i>Oenanthe oenanthe</i> et <i>Phoenicurus phoenicurus</i>.</p>
     </div>
     <div class="stage-photos">
       <figure><img src="/images/blog/carros-de-foc/paysatges/Colladeta_de_Dellui.jpg" alt="Colladeta de Dellui"><figcaption>Colladeta de Dellui.</figcaption></figure>
@@ -217,7 +217,7 @@ Voici les 10 espèces que j'ai aimées pendant la randonnée. Pour la liste comp
   <div class="stage-body">
     <div class="stage-text">
       <p>Le début de la randonnée est assez doux autour de lacs à l'eau bleue et transparente, où nous observons des truites. Il est suivi d'une montée assez verticale, avec des escaliers vers le Pas de l'Ós, puis d'une deuxième montée jusqu'à la Collada de Saburó. La longue descente vers les lacs de Peguera fait partie des grands moments visuels de la traversée. Le refuge J. M. Blanc a rapidement été un coup de coeur, avec son emplacement, sa terrasse et cette impression de rester suspendu au bord de l'eau.</p>
-      <p class="nature-note"><strong>Note naturaliste:</strong> entre Colomina et J. M. Blanc, l'itinéraire alterne entre prairies d'altitude, lacs et secteurs rocheux. Les fleurs alpines restent bien présentes au début de l'été, même dans les zones où le sol paraît très pauvre.</p>
+      <p class="nature-note"><strong>Note naturaliste:</strong> entre Colomina et J. M. Blanc, l'itinéraire alterne entre prairies d'altitude, lacs et secteurs rocheux. Les fleurs alpines restent bien présentes au début de l'été, même dans les zones où le sol paraît très pauvre. Nous avons aussi observé <i>Pyrrhocorax pyrrhocorax</i>.</p>
     </div>
     <div class="stage-photos">
         <figure><img src="/images/blog/carros-de-foc/paysatges/Estany_JMBlanc.jpg" alt="Estany de J. M. Blanc"><figcaption>Arrivée vers J. M. Blanc.</figcaption></figure>
@@ -235,7 +235,7 @@ Voici les 10 espèces que j'ai aimées pendant la randonnée. Pour la liste comp
   <div class="stage-body">
     <div class="stage-text">
       <p>La dernière vraie étape ramène progressivement vers Mallafré, Sant Maurici et les Encantats en passant par Monestero. Après les journées plus hautes et plus sauvages, cette fin de boucle donne une sensation de retour, avec une longue descente vers les forêts de conifères. Mallafré a été le refuge le moins marquant pour nous, mais la proximité avec le paysage et les espèces observées a gardé une jolie valeur de fermeture.</p>
-      <p class="nature-note"><strong>Note naturaliste:</strong> au col de Monestero, nous avons observé un Tichodrome échelette sur les parois rocheuses. Son plumage gris, noir et rouge a rendu cette observation particulièrement marquante pour la fin de la traversée.</p>
+      <p class="nature-note"><strong>Note naturaliste:</strong> au col de Monestero, nous avons observé un Tichodrome échelette sur les parois rocheuses. Son plumage gris, noir et rouge a rendu cette observation particulièrement marquante pour la fin de la traversée. Nous avons aussi observé <i>Parus ater</i> et <i>Motacilla cinerea</i> au bord de l'eau.</p>
     </div>
     <div class="stage-photos">
       <figure><img src="/images/blog/carros-de-foc/paysatges/Els_encantats.jpg" alt="Els Encantats"><figcaption>Els Encantats.</figcaption></figure>
@@ -253,7 +253,7 @@ Voici les 10 espèces que j'ai aimées pendant la randonnée. Pour la liste comp
   <div class="stage-body">
     <div class="stage-text">
       <p>Cette dernière matinée est une courte étape de retour vers l'Aparcament de Prat Pierró. Après plusieurs jours en altitude, elle permet de redescendre tranquillement vers les secteurs plus fréquentés du parc et de fermer la boucle sans précipitation.</p>
-      <p class="nature-note"><strong>Note naturaliste:</strong> le retour traverse de nouveau des milieux forestiers montagnards et subalpins, en contraste avec les pierriers, pelouses alpines et lacs d'altitude des journées précédentes.</p>
+      <p class="nature-note"><strong>Note naturaliste:</strong> le retour traverse de nouveau des milieux forestiers montagnards et subalpins, en contraste avec les pierriers, pelouses alpines et lacs d'altitude des journées précédentes. Nous avons aussi observé des Daims d'Europe près de Mallafré.</p>
     </div>
     <div class="stage-photos">
       <figure><img src="/images/blog/carros-de-foc/paysatges/Proche_mallafre.jpg" alt="Retour vers Prat Pierró"><figcaption>Retour vers Prat Pierró.</figcaption></figure>
